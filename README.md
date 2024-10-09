@@ -14,6 +14,16 @@ Learned the fundamentals of S3, one of AWS’s most important services, focusing
 
 covered the essentials of Amazon EC2 (Elastic Compute Cloud), a key service in AWS that provides secure, resizable virtual servers in the cloud. EC2 allows developers to run applications with flexibility and scalability, offering different pricing models: On-Demand, Reserved, Spot Instances, and Dedicated Hosts. These options cater to various workloads, from short-term testing to long-term predictable use cases. EC2 is fundamental to cloud infrastructure, offering cost-efficiency, rapid deployment, and full control over virtual machines.
 
+# Python
+
+## 1
+
+Provides a comprehensive introduction to Python programming by covering key concepts such as data types, conditionals, loops, functions, classes, and file handling. It includes practical demos such as building a tax calculator, a rock-paper-scissors game, and working with APIs, helping learners apply theoretical concepts through hands-on examples. Topics like dictionaries, JSON handling, pip for package management, and exception handling are also explored, offering a well-rounded foundation for Python development. The course ensures a solid grasp of Python, preparing learners for more advanced applications.
+
+# 2 
+
+Delves into the object-oriented programming (OOP) paradigm in Python. It explores foundational OOP concepts like designing classes, instantiating objects, and managing attributes, along with more advanced topics such as encapsulation, class inheritance, and multiple inheritance. Learners gain hands-on experience with custom classes, special dunder methods, and memory optimization techniques like using slots. The course also covers data classes, type hinting, and class methods, offering a robust understanding of how to effectively apply OOP principles in Python projects.
+ 
 
 # Project
 
