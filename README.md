@@ -28,8 +28,7 @@ Delves into the object-oriented programming (OOP) paradigm in Python. It explore
 
 focuses on unit testing and test-driven development in Python. It introduces key testing vocabulary and practices using the unittest and pytest frameworks. Learners gain hands-on experience in writing test cases, organizing test suites, using fixtures, and running parameterized tests. The course covers essential testing concepts such as regression testing, the developer feedback loop, and continuous integration. Additionally, it explores the differences between writing tests after development versus adopting test-driven development (TDD), providing insight into how TDD can impact software design.
 
-I recently found about this resource, It has been one of the go to resources I go to for the stories I worked on.
-
+I recently found about this resource, It has been one of the go to resources I go to for the stories I worked on [https://pytest-with-eric.com/](https://pytest-with-eric.com/).
 
 # Project
 
