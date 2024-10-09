@@ -16,14 +16,20 @@ covered the essentials of Amazon EC2 (Elastic Compute Cloud), a key service in A
 
 # Python
 
-## 1
+## 1 - Python 3 Fundamentals
 
 Provides a comprehensive introduction to Python programming by covering key concepts such as data types, conditionals, loops, functions, classes, and file handling. It includes practical demos such as building a tax calculator, a rock-paper-scissors game, and working with APIs, helping learners apply theoretical concepts through hands-on examples. Topics like dictionaries, JSON handling, pip for package management, and exception handling are also explored, offering a well-rounded foundation for Python development. The course ensures a solid grasp of Python, preparing learners for more advanced applications.
 
-# 2 
+# 2 - Classes and Object-oriented Programming in Python 3
 
 Delves into the object-oriented programming (OOP) paradigm in Python. It explores foundational OOP concepts like designing classes, instantiating objects, and managing attributes, along with more advanced topics such as encapsulation, class inheritance, and multiple inheritance. Learners gain hands-on experience with custom classes, special dunder methods, and memory optimization techniques like using slots. The course also covers data classes, type hinting, and class methods, offering a robust understanding of how to effectively apply OOP principles in Python projects.
  
+## Testing in Python 3
+
+focuses on unit testing and test-driven development in Python. It introduces key testing vocabulary and practices using the unittest and pytest frameworks. Learners gain hands-on experience in writing test cases, organizing test suites, using fixtures, and running parameterized tests. The course covers essential testing concepts such as regression testing, the developer feedback loop, and continuous integration. Additionally, it explores the differences between writing tests after development versus adopting test-driven development (TDD), providing insight into how TDD can impact software design.
+
+I recently found about this resource, It has been one of the go to resources I go to for the stories I worked on.
+
 
 # Project
 
