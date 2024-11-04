@@ -1,14 +1,4 @@
-Sam consistently demonstrates a positive impact on LM by proactively supporting his teammates. He’s been a reliable source of guidance, frequently checking in to ensure I’m not facing challenges alone and offering his support whenever needed.
 
-One of Sam’s standout qualities is his ability to simplify complex tasks. When I’m struggling to understand a concept, he takes the time to break it down, often using visuals like diagrams to make things clearer. His knack for explaining intricate topics in a straightforward way highlights his natural mentoring abilities.
-
-Additionally, Sam’s public speaking skills have significantly benefited the team. He often volunteers for readouts, a task many find intimidating, and consistently represents the team with confidence and clarity.
-
-Overall, Sam’s dedication to helping others, his clear communication, and his willingness to step up in team settings make him an invaluable asset to LM.
-
-
-
-===================
 ## AWS 
 
 Here's a structured goal tailored to your AWS Certified Solutions Architect Associate exam preparation:
