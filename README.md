@@ -1,5 +1,17 @@
 ## Pair Programming 
 When two dex are creating software together Roles: driver and navigator
+
+"Pair programming involves two people collaborating on the same code. The driver writes the code while the navigator reviews and guides the work."
+
+"This practice improves understanding, reduces bugs, and strengthens collaboration among team members. It's not just about writing code; it's about sharing knowledge."
+
+"For example, during high-risk activities, such as merging or re-architecting code, working in pairs has been shown to dramatically reduce errors and debugging time, as seen in teams where code passed QA smoothly after pairing."
+
+"Additionally, pair programming is particularly helpful when working on complex code, volatile sections, critical systems, or core libraries – areas where mistakes are costly and knowledge sharing is crucial."
+
+"Today, I’m suggesting this as an experiment to address the current bottleneck with PR reviews and help us grow as a team."
+
+
 ### Benefits.
 Fewer defects knowledge transfer Bus factor Does PP decreased Productivity?
 it is actually increasing it. There might be a slight deacrease. However, the produce code during Pair Prog. has a few advantages- 
